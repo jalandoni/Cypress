@@ -1,0 +1,15 @@
+[{
+    "name": "Using fixtures to represent data",
+    "business_name": "hello@cypress.io",
+    "email": "Fixtures are a great way to mock data for responses to routes",
+    "phone":"0989000000",
+    "service": {
+        "simplifying_it": "Simplifying IT",
+        "cloud": "Cloud Service",
+        "printers": "Printers",
+        "other": "Others"
+    },
+    "material":"Cotton",
+    "leather":"Leather"
+    
+}]
